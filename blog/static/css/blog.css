@@ -7,6 +7,9 @@ body {
     padding-left: 20px;
 }
 
+.errorlist {
+    background-color: #F2FF00;
+}
 
 .page-header {
     background-color: #ff9400;
@@ -25,7 +28,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Yesteryear', cursive; 
+    font-family: 'Yesteryear', cursive;
 }
 
 .date {
